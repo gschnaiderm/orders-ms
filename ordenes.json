@@ -1,0 +1,2578 @@
+[
+  {
+    "id": "ORD001",
+    "clienteId": "CLI001",
+    "fecha": "2026-08-10T14:22:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD002",
+    "clienteId": "CLI002",
+    "fecha": "2026-08-18T10:05:00Z",
+    "estado": "entregada",
+    "total": 184000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD003",
+    "clienteId": "CLI003",
+    "fecha": "2026-08-25T19:40:00Z",
+    "estado": "entregada",
+    "total": 955000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD004",
+    "clienteId": "CLI004",
+    "fecha": "2026-09-02T09:15:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD005",
+    "clienteId": "CLI005",
+    "fecha": "2026-09-09T16:50:00Z",
+    "estado": "entregada",
+    "total": 148000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD006",
+    "clienteId": "CLI001",
+    "fecha": "2026-09-14T21:10:00Z",
+    "estado": "entregada",
+    "total": 60000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD007",
+    "clienteId": "CLI006",
+    "fecha": "2026-09-29T11:30:00Z",
+    "estado": "enviada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD008",
+    "clienteId": "CLI004",
+    "fecha": "2026-10-06T13:45:00Z",
+    "estado": "enviada",
+    "total": 157000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD009",
+    "clienteId": "CLI007",
+    "fecha": "2026-10-07T08:20:00Z",
+    "estado": "pendiente",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD010",
+    "clienteId": "CLI008",
+    "fecha": "2026-10-08T17:05:00Z",
+    "estado": "cancelada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD011",
+    "clienteId": "CLI002",
+    "fecha": "2026-10-09T12:00:00Z",
+    "estado": "pagada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD012",
+    "clienteId": "CLI005",
+    "fecha": "2026-10-10T15:35:00Z",
+    "estado": "pagada",
+    "total": 179000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD013",
+    "clienteId": "CLI024",
+    "fecha": "2026-04-01T12:20:00Z",
+    "estado": "entregada",
+    "total": 120000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD014",
+    "clienteId": "CLI028",
+    "fecha": "2026-04-03T19:38:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD015",
+    "clienteId": "CLI015",
+    "fecha": "2026-04-06T23:01:00Z",
+    "estado": "entregada",
+    "total": 978000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD016",
+    "clienteId": "CLI005",
+    "fecha": "2026-04-07T22:53:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD017",
+    "clienteId": "CLI003",
+    "fecha": "2026-04-08T21:49:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD018",
+    "clienteId": "CLI019",
+    "fecha": "2026-04-10T16:27:00Z",
+    "estado": "entregada",
+    "total": 918000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD019",
+    "clienteId": "CLI012",
+    "fecha": "2026-04-12T15:01:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD020",
+    "clienteId": "CLI016",
+    "fecha": "2026-04-13T12:11:00Z",
+    "estado": "entregada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD021",
+    "clienteId": "CLI018",
+    "fecha": "2026-04-13T17:18:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD022",
+    "clienteId": "CLI030",
+    "fecha": "2026-04-14T16:56:00Z",
+    "estado": "entregada",
+    "total": 174000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD023",
+    "clienteId": "CLI031",
+    "fecha": "2026-04-15T09:27:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD024",
+    "clienteId": "CLI010",
+    "fecha": "2026-04-15T14:16:00Z",
+    "estado": "entregada",
+    "total": 340000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD025",
+    "clienteId": "CLI020",
+    "fecha": "2026-04-16T22:41:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD026",
+    "clienteId": "CLI012",
+    "fecha": "2026-04-17T09:51:00Z",
+    "estado": "cancelada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD027",
+    "clienteId": "CLI032",
+    "fecha": "2026-04-20T09:59:00Z",
+    "estado": "entregada",
+    "total": 104000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD028",
+    "clienteId": "CLI015",
+    "fecha": "2026-04-21T15:29:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD029",
+    "clienteId": "CLI005",
+    "fecha": "2026-04-21T21:02:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD030",
+    "clienteId": "CLI028",
+    "fecha": "2026-04-23T22:20:00Z",
+    "estado": "entregada",
+    "total": 324000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD031",
+    "clienteId": "CLI004",
+    "fecha": "2026-04-27T18:41:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD032",
+    "clienteId": "CLI013",
+    "fecha": "2026-04-28T20:54:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD033",
+    "clienteId": "CLI037",
+    "fecha": "2026-04-28T21:44:00Z",
+    "estado": "entregada",
+    "total": 515000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD034",
+    "clienteId": "CLI005",
+    "fecha": "2026-04-30T21:48:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD035",
+    "clienteId": "CLI001",
+    "fecha": "2026-05-01T12:54:00Z",
+    "estado": "entregada",
+    "total": 460000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD036",
+    "clienteId": "CLI004",
+    "fecha": "2026-05-02T13:23:00Z",
+    "estado": "entregada",
+    "total": 54000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD037",
+    "clienteId": "CLI028",
+    "fecha": "2026-05-02T16:24:00Z",
+    "estado": "entregada",
+    "total": 180000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD038",
+    "clienteId": "CLI030",
+    "fecha": "2026-05-03T16:21:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD039",
+    "clienteId": "CLI030",
+    "fecha": "2026-05-03T22:06:00Z",
+    "estado": "entregada",
+    "total": 122000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD040",
+    "clienteId": "CLI023",
+    "fecha": "2026-05-05T18:11:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD041",
+    "clienteId": "CLI025",
+    "fecha": "2026-05-07T09:53:00Z",
+    "estado": "entregada",
+    "total": 515000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD042",
+    "clienteId": "CLI042",
+    "fecha": "2026-05-10T12:31:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD043",
+    "clienteId": "CLI010",
+    "fecha": "2026-05-12T08:04:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD044",
+    "clienteId": "CLI037",
+    "fecha": "2026-05-12T09:44:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD045",
+    "clienteId": "CLI037",
+    "fecha": "2026-05-12T21:37:00Z",
+    "estado": "entregada",
+    "total": 174000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD046",
+    "clienteId": "CLI014",
+    "fecha": "2026-05-13T19:49:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD047",
+    "clienteId": "CLI005",
+    "fecha": "2026-05-13T20:08:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD048",
+    "clienteId": "CLI017",
+    "fecha": "2026-05-14T10:49:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD049",
+    "clienteId": "CLI011",
+    "fecha": "2026-05-16T08:53:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD050",
+    "clienteId": "CLI028",
+    "fecha": "2026-05-16T09:36:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD051",
+    "clienteId": "CLI023",
+    "fecha": "2026-05-17T12:52:00Z",
+    "estado": "entregada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD052",
+    "clienteId": "CLI019",
+    "fecha": "2026-05-18T15:48:00Z",
+    "estado": "entregada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD053",
+    "clienteId": "CLI041",
+    "fecha": "2026-05-18T20:33:00Z",
+    "estado": "enviada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD054",
+    "clienteId": "CLI032",
+    "fecha": "2026-05-20T17:32:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD055",
+    "clienteId": "CLI028",
+    "fecha": "2026-05-21T14:04:00Z",
+    "estado": "entregada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD056",
+    "clienteId": "CLI029",
+    "fecha": "2026-05-22T18:36:00Z",
+    "estado": "entregada",
+    "total": 908000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD057",
+    "clienteId": "CLI017",
+    "fecha": "2026-05-22T21:23:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD058",
+    "clienteId": "CLI032",
+    "fecha": "2026-05-27T08:09:00Z",
+    "estado": "entregada",
+    "total": 54000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD059",
+    "clienteId": "CLI012",
+    "fecha": "2026-05-28T13:19:00Z",
+    "estado": "cancelada",
+    "total": 156000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD060",
+    "clienteId": "CLI016",
+    "fecha": "2026-05-28T16:36:00Z",
+    "estado": "entregada",
+    "total": 120000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD061",
+    "clienteId": "CLI040",
+    "fecha": "2026-05-29T12:24:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD062",
+    "clienteId": "CLI043",
+    "fecha": "2026-05-31T08:06:00Z",
+    "estado": "entregada",
+    "total": 174000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD063",
+    "clienteId": "CLI033",
+    "fecha": "2026-05-31T15:56:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD064",
+    "clienteId": "CLI009",
+    "fecha": "2026-05-31T19:05:00Z",
+    "estado": "entregada",
+    "total": 44000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD065",
+    "clienteId": "CLI029",
+    "fecha": "2026-06-01T11:21:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD066",
+    "clienteId": "CLI028",
+    "fecha": "2026-06-01T11:34:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD067",
+    "clienteId": "CLI004",
+    "fecha": "2026-06-01T13:21:00Z",
+    "estado": "entregada",
+    "total": 926000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD068",
+    "clienteId": "CLI026",
+    "fecha": "2026-06-01T14:50:00Z",
+    "estado": "entregada",
+    "total": 104000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD069",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-01T16:48:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD070",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-01T22:47:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD071",
+    "clienteId": "CLI019",
+    "fecha": "2026-06-02T15:56:00Z",
+    "estado": "entregada",
+    "total": 515000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD072",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-03T22:58:00Z",
+    "estado": "entregada",
+    "total": 525000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD073",
+    "clienteId": "CLI031",
+    "fecha": "2026-06-04T11:04:00Z",
+    "estado": "entregada",
+    "total": 515000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD074",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-04T14:28:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD075",
+    "clienteId": "CLI030",
+    "fecha": "2026-06-04T22:43:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD076",
+    "clienteId": "CLI025",
+    "fecha": "2026-06-05T10:24:00Z",
+    "estado": "entregada",
+    "total": 54000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD077",
+    "clienteId": "CLI014",
+    "fecha": "2026-06-07T16:57:00Z",
+    "estado": "entregada",
+    "total": 58000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD078",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-07T17:18:00Z",
+    "estado": "cancelada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD079",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-08T15:22:00Z",
+    "estado": "entregada",
+    "total": 54000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD080",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-08T21:16:00Z",
+    "estado": "entregada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD081",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-09T19:21:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD082",
+    "clienteId": "CLI035",
+    "fecha": "2026-06-10T19:56:00Z",
+    "estado": "entregada",
+    "total": 22000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD083",
+    "clienteId": "CLI041",
+    "fecha": "2026-06-11T17:49:00Z",
+    "estado": "entregada",
+    "total": 22000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD084",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-12T13:31:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD085",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-12T13:52:00Z",
+    "estado": "entregada",
+    "total": 44000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD086",
+    "clienteId": "CLI030",
+    "fecha": "2026-06-13T16:59:00Z",
+    "estado": "entregada",
+    "total": 410000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD087",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-14T14:57:00Z",
+    "estado": "entregada",
+    "total": 54000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD088",
+    "clienteId": "CLI016",
+    "fecha": "2026-06-15T18:38:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD089",
+    "clienteId": "CLI030",
+    "fecha": "2026-06-15T23:53:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD090",
+    "clienteId": "CLI024",
+    "fecha": "2026-06-16T16:32:00Z",
+    "estado": "entregada",
+    "total": 80000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD091",
+    "clienteId": "CLI005",
+    "fecha": "2026-06-17T12:13:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD092",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-17T20:53:00Z",
+    "estado": "entregada",
+    "total": 908000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD093",
+    "clienteId": "CLI045",
+    "fecha": "2026-06-17T23:16:00Z",
+    "estado": "entregada",
+    "total": 122000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD094",
+    "clienteId": "CLI045",
+    "fecha": "2026-06-18T14:04:00Z",
+    "estado": "entregada",
+    "total": 664000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD095",
+    "clienteId": "CLI010",
+    "fecha": "2026-06-19T09:18:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD096",
+    "clienteId": "CLI012",
+    "fecha": "2026-06-19T12:25:00Z",
+    "estado": "entregada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD097",
+    "clienteId": "CLI045",
+    "fecha": "2026-06-20T12:39:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD098",
+    "clienteId": "CLI022",
+    "fecha": "2026-06-20T20:16:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD099",
+    "clienteId": "CLI030",
+    "fecha": "2026-06-24T15:33:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD100",
+    "clienteId": "CLI017",
+    "fecha": "2026-06-25T17:24:00Z",
+    "estado": "entregada",
+    "total": 472000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD101",
+    "clienteId": "CLI028",
+    "fecha": "2026-06-26T11:41:00Z",
+    "estado": "entregada",
+    "total": 85000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD102",
+    "clienteId": "CLI013",
+    "fecha": "2026-06-26T23:38:00Z",
+    "estado": "entregada",
+    "total": 149000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD103",
+    "clienteId": "CLI045",
+    "fecha": "2026-06-27T17:54:00Z",
+    "estado": "entregada",
+    "total": 1420000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD104",
+    "clienteId": "CLI041",
+    "fecha": "2026-06-27T23:45:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD105",
+    "clienteId": "CLI032",
+    "fecha": "2026-06-28T09:05:00Z",
+    "estado": "entregada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD106",
+    "clienteId": "CLI042",
+    "fecha": "2026-06-28T23:43:00Z",
+    "estado": "entregada",
+    "total": 228000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD107",
+    "clienteId": "CLI030",
+    "fecha": "2026-07-01T09:17:00Z",
+    "estado": "entregada",
+    "total": 22000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD108",
+    "clienteId": "CLI031",
+    "fecha": "2026-07-01T16:53:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD109",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-01T21:07:00Z",
+    "estado": "entregada",
+    "total": 946000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD110",
+    "clienteId": "CLI026",
+    "fecha": "2026-07-01T21:54:00Z",
+    "estado": "entregada",
+    "total": 120000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD111",
+    "clienteId": "CLI025",
+    "fecha": "2026-07-02T09:11:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD112",
+    "clienteId": "CLI035",
+    "fecha": "2026-07-02T21:39:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD113",
+    "clienteId": "CLI023",
+    "fecha": "2026-07-02T21:44:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD114",
+    "clienteId": "CLI026",
+    "fecha": "2026-07-03T09:33:00Z",
+    "estado": "cancelada",
+    "total": 130000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD115",
+    "clienteId": "CLI027",
+    "fecha": "2026-07-03T10:43:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD116",
+    "clienteId": "CLI022",
+    "fecha": "2026-07-04T12:20:00Z",
+    "estado": "entregada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD117",
+    "clienteId": "CLI030",
+    "fecha": "2026-07-04T22:08:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD118",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-05T16:34:00Z",
+    "estado": "cancelada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD119",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-05T21:04:00Z",
+    "estado": "cancelada",
+    "total": 978000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD120",
+    "clienteId": "CLI004",
+    "fecha": "2026-07-06T11:11:00Z",
+    "estado": "entregada",
+    "total": 167000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD121",
+    "clienteId": "CLI019",
+    "fecha": "2026-07-06T18:35:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD122",
+    "clienteId": "CLI036",
+    "fecha": "2026-07-06T21:07:00Z",
+    "estado": "entregada",
+    "total": 255000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD123",
+    "clienteId": "CLI012",
+    "fecha": "2026-07-06T21:28:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD124",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-09T15:18:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD125",
+    "clienteId": "CLI036",
+    "fecha": "2026-07-09T17:26:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD126",
+    "clienteId": "CLI006",
+    "fecha": "2026-07-10T20:07:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD127",
+    "clienteId": "CLI028",
+    "fecha": "2026-07-11T17:00:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD128",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-11T19:09:00Z",
+    "estado": "entregada",
+    "total": 822000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD129",
+    "clienteId": "CLI045",
+    "fecha": "2026-07-12T19:04:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD130",
+    "clienteId": "CLI009",
+    "fecha": "2026-07-14T09:21:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD131",
+    "clienteId": "CLI023",
+    "fecha": "2026-07-14T20:09:00Z",
+    "estado": "entregada",
+    "total": 122000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD132",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-15T12:18:00Z",
+    "estado": "cancelada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD133",
+    "clienteId": "CLI012",
+    "fecha": "2026-07-15T14:38:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD134",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-16T22:26:00Z",
+    "estado": "cancelada",
+    "total": 96000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD135",
+    "clienteId": "CLI043",
+    "fecha": "2026-07-16T22:39:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD136",
+    "clienteId": "CLI017",
+    "fecha": "2026-07-17T13:38:00Z",
+    "estado": "cancelada",
+    "total": 796000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD137",
+    "clienteId": "CLI004",
+    "fecha": "2026-07-17T13:51:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD138",
+    "clienteId": "CLI028",
+    "fecha": "2026-07-17T19:56:00Z",
+    "estado": "entregada",
+    "total": 174000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD139",
+    "clienteId": "CLI030",
+    "fecha": "2026-07-18T22:05:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD140",
+    "clienteId": "CLI024",
+    "fecha": "2026-07-18T22:27:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD141",
+    "clienteId": "CLI042",
+    "fecha": "2026-07-18T22:55:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD142",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-19T09:02:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD143",
+    "clienteId": "CLI034",
+    "fecha": "2026-07-21T09:37:00Z",
+    "estado": "cancelada",
+    "total": 921000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD144",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-22T11:32:00Z",
+    "estado": "entregada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD145",
+    "clienteId": "CLI042",
+    "fecha": "2026-07-22T17:55:00Z",
+    "estado": "entregada",
+    "total": 551000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD146",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-23T16:34:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD147",
+    "clienteId": "CLI043",
+    "fecha": "2026-07-23T20:49:00Z",
+    "estado": "enviada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD148",
+    "clienteId": "CLI045",
+    "fecha": "2026-07-23T23:49:00Z",
+    "estado": "entregada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD149",
+    "clienteId": "CLI025",
+    "fecha": "2026-07-25T08:53:00Z",
+    "estado": "cancelada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD150",
+    "clienteId": "CLI045",
+    "fecha": "2026-07-26T18:42:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD151",
+    "clienteId": "CLI017",
+    "fecha": "2026-07-27T15:55:00Z",
+    "estado": "entregada",
+    "total": 942000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD152",
+    "clienteId": "CLI019",
+    "fecha": "2026-07-27T19:00:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD153",
+    "clienteId": "CLI016",
+    "fecha": "2026-07-29T11:06:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD154",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-29T11:13:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD155",
+    "clienteId": "CLI036",
+    "fecha": "2026-07-30T10:05:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD156",
+    "clienteId": "CLI012",
+    "fecha": "2026-07-30T17:21:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD157",
+    "clienteId": "CLI037",
+    "fecha": "2026-07-30T20:53:00Z",
+    "estado": "entregada",
+    "total": 28000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD158",
+    "clienteId": "CLI004",
+    "fecha": "2026-07-31T15:39:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD159",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-02T16:57:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD160",
+    "clienteId": "CLI002",
+    "fecha": "2026-08-02T17:43:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD161",
+    "clienteId": "CLI030",
+    "fecha": "2026-08-03T14:34:00Z",
+    "estado": "entregada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD162",
+    "clienteId": "CLI004",
+    "fecha": "2026-08-03T21:29:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD163",
+    "clienteId": "CLI041",
+    "fecha": "2026-08-04T11:33:00Z",
+    "estado": "entregada",
+    "total": 28000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD164",
+    "clienteId": "CLI034",
+    "fecha": "2026-08-04T17:37:00Z",
+    "estado": "entregada",
+    "total": 830000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD165",
+    "clienteId": "CLI043",
+    "fecha": "2026-08-04T21:58:00Z",
+    "estado": "entregada",
+    "total": 180000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD166",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-04T22:38:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD167",
+    "clienteId": "CLI021",
+    "fecha": "2026-08-05T12:53:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD168",
+    "clienteId": "CLI011",
+    "fecha": "2026-08-05T21:35:00Z",
+    "estado": "entregada",
+    "total": 908000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD169",
+    "clienteId": "CLI037",
+    "fecha": "2026-08-06T10:54:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD170",
+    "clienteId": "CLI023",
+    "fecha": "2026-08-06T15:07:00Z",
+    "estado": "entregada",
+    "total": 525000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD171",
+    "clienteId": "CLI031",
+    "fecha": "2026-08-06T16:24:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD172",
+    "clienteId": "CLI045",
+    "fecha": "2026-08-08T13:31:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD173",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-08T21:50:00Z",
+    "estado": "entregada",
+    "total": 788000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD174",
+    "clienteId": "CLI032",
+    "fecha": "2026-08-08T23:02:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD175",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-09T10:37:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD176",
+    "clienteId": "CLI021",
+    "fecha": "2026-08-09T20:49:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD177",
+    "clienteId": "CLI046",
+    "fecha": "2026-08-09T23:49:00Z",
+    "estado": "entregada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD178",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-10T18:14:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD179",
+    "clienteId": "CLI021",
+    "fecha": "2026-08-11T15:16:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD180",
+    "clienteId": "CLI042",
+    "fecha": "2026-08-11T16:31:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD181",
+    "clienteId": "CLI002",
+    "fecha": "2026-08-12T09:25:00Z",
+    "estado": "entregada",
+    "total": 796000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD182",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-12T21:46:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD183",
+    "clienteId": "CLI019",
+    "fecha": "2026-08-15T17:00:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD184",
+    "clienteId": "CLI025",
+    "fecha": "2026-08-16T21:41:00Z",
+    "estado": "entregada",
+    "total": 58000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD185",
+    "clienteId": "CLI042",
+    "fecha": "2026-08-17T11:53:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD186",
+    "clienteId": "CLI006",
+    "fecha": "2026-08-17T12:38:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD187",
+    "clienteId": "CLI045",
+    "fecha": "2026-08-17T13:36:00Z",
+    "estado": "entregada",
+    "total": 143000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD188",
+    "clienteId": "CLI024",
+    "fecha": "2026-08-17T17:25:00Z",
+    "estado": "entregada",
+    "total": 64000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD189",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-18T08:05:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD190",
+    "clienteId": "CLI025",
+    "fecha": "2026-08-18T10:18:00Z",
+    "estado": "entregada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD191",
+    "clienteId": "CLI047",
+    "fecha": "2026-08-19T08:44:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD192",
+    "clienteId": "CLI006",
+    "fecha": "2026-08-19T13:35:00Z",
+    "estado": "entregada",
+    "total": 366000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD193",
+    "clienteId": "CLI037",
+    "fecha": "2026-08-19T23:27:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD194",
+    "clienteId": "CLI018",
+    "fecha": "2026-08-20T22:24:00Z",
+    "estado": "entregada",
+    "total": 960000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD195",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-21T10:23:00Z",
+    "estado": "entregada",
+    "total": 72000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD196",
+    "clienteId": "CLI003",
+    "fecha": "2026-08-21T19:29:00Z",
+    "estado": "cancelada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD197",
+    "clienteId": "CLI025",
+    "fecha": "2026-08-22T10:35:00Z",
+    "estado": "entregada",
+    "total": 942000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD198",
+    "clienteId": "CLI016",
+    "fecha": "2026-08-22T11:50:00Z",
+    "estado": "entregada",
+    "total": 22000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD199",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-22T14:26:00Z",
+    "estado": "entregada",
+    "total": 395000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD200",
+    "clienteId": "CLI036",
+    "fecha": "2026-08-23T15:34:00Z",
+    "estado": "entregada",
+    "total": 130000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD201",
+    "clienteId": "CLI025",
+    "fecha": "2026-08-23T16:22:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD202",
+    "clienteId": "CLI028",
+    "fecha": "2026-08-24T09:16:00Z",
+    "estado": "entregada",
+    "total": 844000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD203",
+    "clienteId": "CLI017",
+    "fecha": "2026-08-24T13:34:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD204",
+    "clienteId": "CLI014",
+    "fecha": "2026-08-24T15:45:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD205",
+    "clienteId": "CLI035",
+    "fecha": "2026-08-24T16:48:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD206",
+    "clienteId": "CLI006",
+    "fecha": "2026-08-24T19:24:00Z",
+    "estado": "entregada",
+    "total": 156000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD207",
+    "clienteId": "CLI022",
+    "fecha": "2026-08-26T14:40:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD208",
+    "clienteId": "CLI025",
+    "fecha": "2026-08-26T18:35:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD209",
+    "clienteId": "CLI044",
+    "fecha": "2026-08-26T21:28:00Z",
+    "estado": "cancelada",
+    "total": 685000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD210",
+    "clienteId": "CLI030",
+    "fecha": "2026-08-27T09:04:00Z",
+    "estado": "entregada",
+    "total": 760000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD211",
+    "clienteId": "CLI017",
+    "fecha": "2026-08-27T17:04:00Z",
+    "estado": "entregada",
+    "total": 330000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD212",
+    "clienteId": "CLI014",
+    "fecha": "2026-08-28T14:51:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD213",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-28T15:55:00Z",
+    "estado": "entregada",
+    "total": 52000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD214",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-29T14:08:00Z",
+    "estado": "entregada",
+    "total": 85000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD215",
+    "clienteId": "CLI016",
+    "fecha": "2026-08-29T20:22:00Z",
+    "estado": "enviada",
+    "total": 340000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD216",
+    "clienteId": "CLI013",
+    "fecha": "2026-08-29T22:25:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD217",
+    "clienteId": "CLI023",
+    "fecha": "2026-08-30T08:36:00Z",
+    "estado": "entregada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD218",
+    "clienteId": "CLI002",
+    "fecha": "2026-08-30T10:12:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD219",
+    "clienteId": "CLI012",
+    "fecha": "2026-08-31T12:44:00Z",
+    "estado": "entregada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD220",
+    "clienteId": "CLI035",
+    "fecha": "2026-08-31T16:31:00Z",
+    "estado": "entregada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD221",
+    "clienteId": "CLI026",
+    "fecha": "2026-09-01T17:29:00Z",
+    "estado": "entregada",
+    "total": 908000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD222",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-01T17:34:00Z",
+    "estado": "entregada",
+    "total": 760000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD223",
+    "clienteId": "CLI030",
+    "fecha": "2026-09-02T23:11:00Z",
+    "estado": "entregada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD224",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-03T08:24:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD225",
+    "clienteId": "CLI019",
+    "fecha": "2026-09-03T18:31:00Z",
+    "estado": "entregada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD226",
+    "clienteId": "CLI004",
+    "fecha": "2026-09-03T20:45:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD227",
+    "clienteId": "CLI030",
+    "fecha": "2026-09-04T08:34:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD228",
+    "clienteId": "CLI016",
+    "fecha": "2026-09-04T10:14:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD229",
+    "clienteId": "CLI012",
+    "fecha": "2026-09-04T16:00:00Z",
+    "estado": "entregada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD230",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-04T20:47:00Z",
+    "estado": "entregada",
+    "total": 280000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD231",
+    "clienteId": "CLI025",
+    "fecha": "2026-09-05T09:16:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD232",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-06T23:16:00Z",
+    "estado": "entregada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD233",
+    "clienteId": "CLI047",
+    "fecha": "2026-09-07T11:59:00Z",
+    "estado": "entregada",
+    "total": 946000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD234",
+    "clienteId": "CLI035",
+    "fecha": "2026-09-07T12:08:00Z",
+    "estado": "entregada",
+    "total": 918000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD235",
+    "clienteId": "CLI012",
+    "fecha": "2026-09-07T14:44:00Z",
+    "estado": "entregada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD236",
+    "clienteId": "CLI030",
+    "fecha": "2026-09-08T15:28:00Z",
+    "estado": "entregada",
+    "total": 340000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD237",
+    "clienteId": "CLI025",
+    "fecha": "2026-09-08T17:13:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD238",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-08T20:31:00Z",
+    "estado": "entregada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD239",
+    "clienteId": "CLI046",
+    "fecha": "2026-09-10T16:37:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD240",
+    "clienteId": "CLI036",
+    "fecha": "2026-09-11T08:44:00Z",
+    "estado": "entregada",
+    "total": 224000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD241",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-12T12:21:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD242",
+    "clienteId": "CLI012",
+    "fecha": "2026-09-13T13:05:00Z",
+    "estado": "entregada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD243",
+    "clienteId": "CLI035",
+    "fecha": "2026-09-13T17:06:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD244",
+    "clienteId": "CLI013",
+    "fecha": "2026-09-13T18:58:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD245",
+    "clienteId": "CLI023",
+    "fecha": "2026-09-13T22:11:00Z",
+    "estado": "entregada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD246",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-15T10:44:00Z",
+    "estado": "entregada",
+    "total": 340000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD247",
+    "clienteId": "CLI013",
+    "fecha": "2026-09-15T13:04:00Z",
+    "estado": "entregada",
+    "total": 822000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD248",
+    "clienteId": "CLI024",
+    "fecha": "2026-09-15T15:09:00Z",
+    "estado": "entregada",
+    "total": 525000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD249",
+    "clienteId": "CLI017",
+    "fecha": "2026-09-16T10:09:00Z",
+    "estado": "entregada",
+    "total": 98000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD250",
+    "clienteId": "CLI037",
+    "fecha": "2026-09-17T11:22:00Z",
+    "estado": "entregada",
+    "total": 64000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD251",
+    "clienteId": "CLI016",
+    "fecha": "2026-09-17T11:51:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD252",
+    "clienteId": "CLI041",
+    "fecha": "2026-09-17T21:05:00Z",
+    "estado": "cancelada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD253",
+    "clienteId": "CLI016",
+    "fecha": "2026-09-18T11:04:00Z",
+    "estado": "entregada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD254",
+    "clienteId": "CLI018",
+    "fecha": "2026-09-18T12:34:00Z",
+    "estado": "entregada",
+    "total": 80000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD255",
+    "clienteId": "CLI018",
+    "fecha": "2026-09-18T13:12:00Z",
+    "estado": "entregada",
+    "total": 642000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD256",
+    "clienteId": "CLI015",
+    "fecha": "2026-09-18T16:06:00Z",
+    "estado": "entregada",
+    "total": 36000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD257",
+    "clienteId": "CLI017",
+    "fecha": "2026-09-19T10:10:00Z",
+    "estado": "entregada",
+    "total": 174000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD258",
+    "clienteId": "CLI001",
+    "fecha": "2026-09-19T19:44:00Z",
+    "estado": "entregada",
+    "total": 52000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD259",
+    "clienteId": "CLI043",
+    "fecha": "2026-09-20T08:37:00Z",
+    "estado": "entregada",
+    "total": 345000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD260",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-21T18:41:00Z",
+    "estado": "entregada",
+    "total": 72000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD261",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-22T09:16:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD262",
+    "clienteId": "CLI021",
+    "fecha": "2026-09-22T11:00:00Z",
+    "estado": "entregada",
+    "total": 152000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD263",
+    "clienteId": "CLI030",
+    "fecha": "2026-09-22T11:35:00Z",
+    "estado": "entregada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD264",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-22T15:40:00Z",
+    "estado": "entregada",
+    "total": 340000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD265",
+    "clienteId": "CLI039",
+    "fecha": "2026-09-22T15:43:00Z",
+    "estado": "entregada",
+    "total": 58000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD266",
+    "clienteId": "CLI045",
+    "fecha": "2026-09-22T17:10:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD267",
+    "clienteId": "CLI034",
+    "fecha": "2026-09-23T09:03:00Z",
+    "estado": "entregada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD268",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-23T09:31:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD269",
+    "clienteId": "CLI019",
+    "fecha": "2026-09-23T10:24:00Z",
+    "estado": "entregada",
+    "total": 848000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD270",
+    "clienteId": "CLI013",
+    "fecha": "2026-09-23T12:42:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD271",
+    "clienteId": "CLI033",
+    "fecha": "2026-09-23T19:38:00Z",
+    "estado": "entregada",
+    "total": 472000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD272",
+    "clienteId": "CLI009",
+    "fecha": "2026-09-24T11:15:00Z",
+    "estado": "entregada",
+    "total": 72000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD273",
+    "clienteId": "CLI011",
+    "fecha": "2026-09-24T11:27:00Z",
+    "estado": "entregada",
+    "total": 472000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD274",
+    "clienteId": "CLI042",
+    "fecha": "2026-09-24T20:15:00Z",
+    "estado": "entregada",
+    "total": 65000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD275",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-25T09:27:00Z",
+    "estado": "enviada",
+    "total": 104000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD276",
+    "clienteId": "CLI030",
+    "fecha": "2026-09-25T18:50:00Z",
+    "estado": "entregada",
+    "total": 116000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD277",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-26T09:02:00Z",
+    "estado": "enviada",
+    "total": 185000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD278",
+    "clienteId": "CLI042",
+    "fecha": "2026-09-26T11:40:00Z",
+    "estado": "entregada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD279",
+    "clienteId": "CLI004",
+    "fecha": "2026-09-27T09:42:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD280",
+    "clienteId": "CLI028",
+    "fecha": "2026-09-27T22:42:00Z",
+    "estado": "entregada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD281",
+    "clienteId": "CLI013",
+    "fecha": "2026-09-28T18:33:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD282",
+    "clienteId": "CLI031",
+    "fecha": "2026-09-28T20:40:00Z",
+    "estado": "entregada",
+    "total": 26000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD283",
+    "clienteId": "CLI040",
+    "fecha": "2026-09-28T22:17:00Z",
+    "estado": "entregada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD284",
+    "clienteId": "CLI035",
+    "fecha": "2026-09-30T08:11:00Z",
+    "estado": "entregada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD285",
+    "clienteId": "CLI016",
+    "fecha": "2026-09-30T10:37:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD286",
+    "clienteId": "CLI034",
+    "fecha": "2026-09-30T21:57:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD287",
+    "clienteId": "CLI038",
+    "fecha": "2026-10-01T09:24:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD288",
+    "clienteId": "CLI028",
+    "fecha": "2026-10-01T12:02:00Z",
+    "estado": "entregada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD289",
+    "clienteId": "CLI023",
+    "fecha": "2026-10-01T12:32:00Z",
+    "estado": "entregada",
+    "total": 120000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD290",
+    "clienteId": "CLI014",
+    "fecha": "2026-10-01T13:43:00Z",
+    "estado": "entregada",
+    "total": 109000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD291",
+    "clienteId": "CLI025",
+    "fecha": "2026-10-01T15:38:00Z",
+    "estado": "cancelada",
+    "total": 125000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD292",
+    "clienteId": "CLI002",
+    "fecha": "2026-10-01T19:30:00Z",
+    "estado": "entregada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD293",
+    "clienteId": "CLI016",
+    "fecha": "2026-10-02T09:04:00Z",
+    "estado": "entregada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD294",
+    "clienteId": "CLI030",
+    "fecha": "2026-10-02T09:13:00Z",
+    "estado": "entregada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD295",
+    "clienteId": "CLI026",
+    "fecha": "2026-10-02T13:37:00Z",
+    "estado": "entregada",
+    "total": 472000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD296",
+    "clienteId": "CLI030",
+    "fecha": "2026-10-03T13:09:00Z",
+    "estado": "enviada",
+    "total": 96000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD297",
+    "clienteId": "CLI020",
+    "fecha": "2026-10-03T17:24:00Z",
+    "estado": "enviada",
+    "total": 525000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD298",
+    "clienteId": "CLI020",
+    "fecha": "2026-10-04T08:47:00Z",
+    "estado": "entregada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD299",
+    "clienteId": "CLI016",
+    "fecha": "2026-10-04T10:11:00Z",
+    "estado": "enviada",
+    "total": 52000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD300",
+    "clienteId": "CLI027",
+    "fecha": "2026-10-04T18:05:00Z",
+    "estado": "enviada",
+    "total": 207000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD301",
+    "clienteId": "CLI003",
+    "fecha": "2026-10-04T19:06:00Z",
+    "estado": "pagada",
+    "total": 18000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD302",
+    "clienteId": "CLI028",
+    "fecha": "2026-10-04T19:53:00Z",
+    "estado": "enviada",
+    "total": 1350000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD303",
+    "clienteId": "CLI024",
+    "fecha": "2026-10-05T14:24:00Z",
+    "estado": "enviada",
+    "total": 450000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD304",
+    "clienteId": "CLI001",
+    "fecha": "2026-10-05T18:18:00Z",
+    "estado": "enviada",
+    "total": 180000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD305",
+    "clienteId": "CLI037",
+    "fecha": "2026-10-05T18:56:00Z",
+    "estado": "entregada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD306",
+    "clienteId": "CLI042",
+    "fecha": "2026-10-05T19:09:00Z",
+    "estado": "pagada",
+    "total": 890000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD307",
+    "clienteId": "CLI042",
+    "fecha": "2026-10-05T19:53:00Z",
+    "estado": "enviada",
+    "total": 620000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD308",
+    "clienteId": "CLI030",
+    "fecha": "2026-10-05T21:09:00Z",
+    "estado": "enviada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD309",
+    "clienteId": "CLI030",
+    "fecha": "2026-10-05T23:23:00Z",
+    "estado": "enviada",
+    "total": 52000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD310",
+    "clienteId": "CLI016",
+    "fecha": "2026-10-06T20:04:00Z",
+    "estado": "enviada",
+    "total": 520000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD311",
+    "clienteId": "CLI025",
+    "fecha": "2026-10-07T08:29:00Z",
+    "estado": "enviada",
+    "total": 56000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD312",
+    "clienteId": "CLI041",
+    "fecha": "2026-10-07T09:31:00Z",
+    "estado": "enviada",
+    "total": 224000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD313",
+    "clienteId": "CLI023",
+    "fecha": "2026-10-07T10:35:00Z",
+    "estado": "enviada",
+    "total": 32000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD314",
+    "clienteId": "CLI037",
+    "fecha": "2026-10-07T13:18:00Z",
+    "estado": "enviada",
+    "total": 52000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD315",
+    "clienteId": "CLI002",
+    "fecha": "2026-10-07T19:04:00Z",
+    "estado": "pagada",
+    "total": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD316",
+    "clienteId": "CLI018",
+    "fecha": "2026-10-08T13:27:00Z",
+    "estado": "pendiente",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD317",
+    "clienteId": "CLI047",
+    "fecha": "2026-10-08T16:08:00Z",
+    "estado": "pendiente",
+    "total": 778000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD318",
+    "clienteId": "CLI026",
+    "fecha": "2026-10-09T18:14:00Z",
+    "estado": "pagada",
+    "total": 48000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD319",
+    "clienteId": "CLI024",
+    "fecha": "2026-10-09T20:02:00Z",
+    "estado": "enviada",
+    "total": 135000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD320",
+    "clienteId": "CLI045",
+    "fecha": "2026-10-09T21:30:00Z",
+    "estado": "pagada",
+    "total": 89000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD321",
+    "clienteId": "CLI006",
+    "fecha": "2026-10-09T22:54:00Z",
+    "estado": "pagada",
+    "total": 642000,
+    "moneda": "ARS"
+  },
+  {
+    "id": "ORD322",
+    "clienteId": "CLI025",
+    "fecha": "2026-10-10T19:38:00Z",
+    "estado": "pagada",
+    "total": 340000,
+    "moneda": "ARS"
+  }
+]
