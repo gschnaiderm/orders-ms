@@ -4,6 +4,7 @@ from datetime import date, timedelta
 from dotenv import load_dotenv
 from fastapi import FastAPI, Query
 from fastapi.exceptions import RequestValidationError
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pymongo import MongoClient
 from starlette.exceptions import HTTPException as StarletteHTTPException
@@ -18,6 +19,10 @@ client = MongoClient(os.environ["MONGODB_URI"])
 orders = client["orders-ms"]["orders"]
 
 app = FastAPI(title="Microservicio de ordenes", version=VERSION)
+
+# Permite que páginas de otros dominios (p. ej. el monitor del dashboard) llamen al servicio
+# desde el navegador. El servicio es público y de solo lectura.
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["GET"], allow_headers=["*"])
 
 
 def error(status: int, code: str, message: str) -> JSONResponse:
